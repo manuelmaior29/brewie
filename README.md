@@ -26,4 +26,5 @@ Given that the application might be rather coffee machine dependent, the data us
 |Input|Coffee origin|-|string|The region from which the coffee was harvested|
 |Input|Coffee time since roast|days|integer|The time passed since the coffee was roasted|
 |Input|Coffee processing type|-|string|The method used for processing the coffee beans after harvesting|
-|Input|Coffee QGrade|index|integer|A grading system which grades the quality of coffee from 0-100|
+|Input|Coffee QGrade|index|integer|A grade based on QGrade system which was developed to rate the quality of coffee from 0-100|
+|**Input**|**Taste rating**|**index**|**integer**|**A rating given by the user for the extracted coffee**|
