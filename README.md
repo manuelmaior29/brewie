@@ -18,12 +18,12 @@ Given that the application might be rather coffee machine dependent, the data us
 ### Features
 |Name|MU|Data Type|Description|
 |---|---|---|---|
-|Grind size setting|index|integer|   |
-|Grind size setting burr|index|integer|   |
-|Extraction time|seconds|integer|   |
-|Shot multiplier|index|integer|   |
-|Coffee origin|-|string|   |
-|Coffee time since roast|days|integer|   |
-|Coffee processing type|-|string|   |
-|Coffee QGrade|index|integer|   |
-|Coffee quantity|grams|float|   |
+|Grind size setting|index|integer|The main adjustment value made on the grinder|
+|Grind size setting burr|index|integer|The adjustment value made on the grinder burr|
+|Extraction time|seconds|integer|The time passed from the first drop of coffee until the water is stopped|
+|Extraction quantity|grams|float|The quantity of water passed through coffee|
+|Coffee origin|-|string|The region from which the coffee was harvested|
+|Coffee time since roast|days|integer|The time passed since the coffee was roasted|
+|Coffee processing type|-|string|The method used for processing the coffee beans after harvesting|
+|Coffee QGrade|index|integer|A grading system which grades the quality of coffee from 0-100|
+|Coffee quantity|grams|float|The quantity of coffee used for extraction|
