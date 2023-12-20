@@ -14,3 +14,16 @@ After getting a coffee-making machine there are a lot of situations in which the
 ## Data
 
 Given that the application might be rather coffee machine dependent, the data used for implementing an ML-based, extraction settings optimization system, would be defined on the _Sage's the Barista Express™_ machine (since this one is close at hand for me).
+
+### Features
+|Name|MU|Data Type|Description|
+|---|---|---|---|
+|Grind size setting|index|integer|   |
+|Grind size setting burr|index|integer|   |
+|Extraction time|seconds|integer|   |
+|Shot multiplier|index|integer|   |
+|Coffee origin|-|string|   |
+|Coffee time since roast|days|integer|   |
+|Coffee processing type|-|string|   |
+|Coffee QGrade|index|integer|   |
+|Coffee quantity|grams|float|   |
