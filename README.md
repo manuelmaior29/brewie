@@ -31,4 +31,6 @@ Given that the application might be rather coffee machine dependent, the data us
 |Independent|Coffee time since roast|days|integer|The time passed since the coffee was roasted|
 |Independent|Coffee processing type|-|string|The method used for processing the coffee beans after harvesting|
 |Independent|Coffee QGrade|index|integer|A grade based on QGrade system which was developed to rate the quality of coffee from 0-100|
+|Independent|Water filter age|months|integer|Months passed since replacement of the water filter|
+|Independent|Desired coffee-based drink|-|string|The name of the desired coffee-based drink|
 |**Independent**|**Taste rating**|**index**|**integer**|**A rating given by the user for the extracted coffee**|
