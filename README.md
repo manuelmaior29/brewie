@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Data](#data)
+- [Model](#model)
   
 ## Overview
 After getting a coffee-making machine there are a lot of situations in which the extracted coffee does not end up to our expectations. Some of us enjoy a balanced taste with slight bitterness while others prefer to drink a slightly acid coffee. Considering this, the idea of developing an ML-based system, that could aid the extraction process, specifically providing tips for adjusting parameters from _grind size_, _coffee quantity_ and _extraction time_ up to _coffee origin_, in order to achieve the desired coffee taste.
@@ -34,3 +35,5 @@ Given that the application might be rather coffee machine dependent, the data us
 |Independent|Water filter age|months|integer|Months passed since replacement of the water filter|
 |Independent|Desired coffee-based drink|-|string|The name of the desired coffee-based drink|
 |**Independent**|**Taste rating**|**index**|**integer**|**A rating given by the user for the extracted coffee**|
+
+## Model
