@@ -11,6 +11,14 @@ After getting a coffee-making machine there are a lot of situations in which the
 ![alt text](images/coffee-icon.jpg)
 <a href="https://www.vecteezy.com/free-vector/cappuccino">Cappuccino Vectors by Vecteezy</a>
 
+## Getting started
+### Python
+Supposing that _conda_ is installed, the creation of a new environment containing the necessary packages can be done with the following command, executed in the root repo folder:
+<br>
+```
+conda create --name <env_name> --file requirements.txt
+```
+
 ## Data
 Given that the application might be rather coffee machine dependent, the data used for implementing an ML-based, extraction settings optimization system, would be defined on the _Sage's the Barista Express™_ machine (since this one is close at hand for me).
 
