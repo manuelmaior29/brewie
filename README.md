@@ -20,7 +20,7 @@ conda create --name <env_name> --file requirements.txt
 ```
 
 ## Data
-Given that the application might be rather coffee machine dependent, the data used for implementing an ML-based, extraction settings optimization system, would be defined on the _Sage's the Barista Express™_ machine (since this one is close at hand for me).
+Given that the application might be rather coffee machine dependent, the features describing the collected data points, used for implementing an ML-based, extraction settings optimization system, would be constrained by the _Sage's the Barista Express™_ machine (since this one is close at hand for me).
 
 ### Variables
 |Type|Name|MU|Data Type|Description|
