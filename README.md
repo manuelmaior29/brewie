@@ -30,6 +30,7 @@ Given that the application might be rather coffee machine dependent, the feature
 |Dependent|Extraction time|seconds|integer|The time passed from the first drop of coffee until the water is stopped|
 |Dependent|Extraction quantity|grams|float|The quantity of water passed through coffee|
 |Dependent|Coffee quantity|grams|float|The quantity of coffee used for extraction|
+|Dependent|Filter type|-|string|The type of the filter used for the coffee extraction|
 |Dependent|Distribution by side tap|flag|boolean|Whether the coffee should be distributed in the portafilter by side tap|
 |Dependent|Distribution by settling|flag|boolean|Whether the coffee should be distributed in the portafilter by settling|
 |Dependent|Distribution by nsew|flag|boolean|Whether the coffee should be distributed in the portafilter by _nsew_ technique|
