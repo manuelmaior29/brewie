@@ -38,6 +38,7 @@ Given that the application might be rather coffee machine dependent, the feature
 |Dependent|Distribution by WDT|flag|boolean|Whether the coffee should be distributed in the portafilter by _WDT_ technique|
 |Dependent|Distribution by spinning distribution tool|flag|boolean|Whether the coffee should be distributed in the portafilter by spinning distribution tool (placed on top of the portafilter and spinned)|
 |Independent|Coffee origin|-|string|The region from which the coffee was harvested|
+|Independent|Coffee altitude|meters|integer|The altitude from which the coffee was harvested|
 |Independent|Coffee time since roast|days|integer|The time passed since the coffee was roasted|
 |Independent|Coffee processing type|-|string|The method used for processing the coffee beans after harvesting|
 |Independent|Coffee QGrade|index|integer|A grade based on QGrade system which was developed to rate the quality of coffee from 0-100|
