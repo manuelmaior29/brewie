@@ -1,0 +1,5 @@
+grind_size_setting,grind_size_setting_burr,extraction_time,extraction_quantity,coffee_quantity,distribution_by_side_tap,distribution_by_settling,distribution_by_nsew,distribution_by_stockfleth,distribution_by_WDT,distribution_by_spinning_distribution_tool,coffee_origin,coffee_time_since_roast,coffee_processing_type,coffee_qgrade,water_filter_age,desired_coffee_based_drink,coffee_based_drink_taste_rating,filter_type,coffee_altitude
+8,,22,35.7,18,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Cerrado Miniero,,natural,86,4,cappuccino,9,double unpressured,1145
+8,,29,35.5,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Cerrado Miniero,,natural,86,3,cappuccino,8,double unpressured,1145
+8,,29,35.5,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Cerrado Miniero,,natural,86,3,cappuccino,8,double unpressured,1145
+8,,17,36.9,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Mount Kenya,,washed,,4,cappuccino,6,double unpressured,1825
