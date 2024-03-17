@@ -3,3 +3,14 @@ grind_size_setting,grind_size_setting_burr,extraction_time,extraction_quantity,c
 8,,29,35.5,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Cerrado Miniero,,natural,86,3,cappuccino,8,double unpressured,1145
 8,,29,35.5,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Cerrado Miniero,,natural,86,3,cappuccino,8,double unpressured,1145
 8,,17,36.9,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Mount Kenya,,washed,,4,cappuccino,6,double unpressured,1825
+7,,16.36,39.9,18.4,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Mount Kenya,,washed,,4,cappuccino,7,double unpressured,1825
+6,,17.04,37,18,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Mount Kenya,,washed,,0,cappuccino,8,double unpressured,1825
+8,,22.71,34.6,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,,,,0,cappuccino,8,double unpressured,
+9,,41.34,34.3,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,,,,0,cappuccino,9,double unpressured,
+10,,28.17,35.4,18,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,,,,0,cappuccino,8,double unpressured,
+10,,24.6,35.1,18.1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,,,,0,cappuccino,9,double unpressured,
+10,,27.53,34.4,18,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,,,,0,cappuccino,8,double unpressured,
+10,,28.83,34.2,18,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,32,,,0,cappuccino,7,double unpressured,
+11,,20.13,35.7,18,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,33,,,0,cappuccino,8,double unpressured,
+11,,25.68,34.9,18.3,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,45,,,0,cappuccino,6,double unpressured,
+11,,25.43,34.1,18,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Etiopia,46,,,0,cappuccino,7,double unpressured,
